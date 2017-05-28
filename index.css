@@ -1,0 +1,48 @@
+p.textgreen{
+    background-color: gray;
+}
+.txtt{
+    font-size: 18px;
+    font-weight: 500;
+    color: blue;
+}
+ul{
+    font-family: courier;
+    border: yellowgreen;
+    border-style: dashed;
+    line-height: 200%;
+}
+article{
+    width:70%;
+}
+aside{      right: 0%;     
+            position: fixed;
+			margin: 100px 10px;
+			width: 20%;
+			height: 500px;
+			background-color: rgb(200,200,200);
+			border-radius: 10px;
+		}
+body{
+            font-size: medium;
+			display: flex;
+	}
+    	#caco{
+			width:230px;
+			margin: 10px 15px auto 15px;
+		}
+		
+		#cacotext{
+			margin: auto 15px;
+			font-size: 10px;
+			color: rgb(100,100,100);
+		}
+ p{
+     background-color: white;
+ }
+ p:hover{
+     background-color: lightblue;
+ }
+h1{font-size: 200%;}
+h2{font-size: 160%;}
+p{ font-size: 120%;}
